@@ -1,4 +1,5 @@
 ## Meerkatt AI
+AI assistant books flights, negotiates prices, signs contracts. Identity via ZK credentials. Payments via on-chain settlement.
 
 <p align="center">
 <a href="https://meerkatt.ai"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"
