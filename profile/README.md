@@ -7,3 +7,5 @@ alt="Demo of the Meerkatt AI mobile app"
 height="40"></a>
 
 </p>
+
+## The Problem
