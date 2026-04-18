@@ -13,3 +13,6 @@ height="40"></a>
 
 
 ### Mobile App
+
+
+## How It Works
