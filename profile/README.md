@@ -1,21 +1,11 @@
-## Meerkatt AI
-AI assistant books flights, negotiates prices, signs contracts. Identity via ZK credentials. Payments via on-chain settlement.
-
-<p align="center">
-<a href="https://meerkatt.ai"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"
-alt="Demo of the Meerkatt AI mobile app"
-height="40"></a>
-
-</p>
-
-## The Problem 
-
-
-
-### Mobile App
-
-
-## How It Works
+## 🟠 🟠  Meerkatt AI
+The official organization for Meerkatt AI, created and maintained by [agenticllama](https://twitter.com/agenticllama) and [agenticmeer](https://twitter.com/agenticmeer). 100% bootstrapped. 
 
 
 ## Links
+
+- [Twitter](https://twitter.com/MeerkattAI)
+- [Roadmap](https://www.notion.so/35d202c145fc8048a6cfd7630758c890?v=35d202c145fc808ab01e000cd2ce7279)
+- [Docs](https://docs.meerkatt.ai/)
+
+
