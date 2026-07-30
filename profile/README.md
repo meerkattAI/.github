@@ -5,8 +5,8 @@ The official organization for Meerkatt AI, created and maintained by [agenticlla
 ## Links
 
 - [Twitter](https://twitter.com/MeerkattAI)
-- [Roadmap](updating for Product Hunt launch and new site update)
-- [Docs] (https://docs.meerkatt.ai/)
+- [Roadmap]
+- [Docs](https://docs.meerkatt.ai/)
 - [Discord](https://discord.com/invite/D2BU49WUAR)
 
 ## Contract
