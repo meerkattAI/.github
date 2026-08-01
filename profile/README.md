@@ -5,7 +5,7 @@ The official organization for Meerkatt AI, created and maintained by [agenticlla
 ## Links
 
 - [Twitter](https://twitter.com/MeerkattAI)
-- [Roadmap]
+- [Roadmap](https://meerkatt.ai.notion.site)
 - [Docs](https://docs.meerkatt.ai/)
 - [Discord](https://discord.com/invite/D2BU49WUAR)
 
